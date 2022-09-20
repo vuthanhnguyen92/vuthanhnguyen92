@@ -1,5 +1,11 @@
 <h2>
-Hi there!
+Stackoverflow
+</h2>
+<a>
+<img src="https://stackoverflow.com/users/flair/9201587.png?theme=clean"/>
+</a>
+<h2>
+Git stats
 </h2>
 <table>
 <tr>
