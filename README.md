@@ -5,5 +5,5 @@ Hi there!
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuthanhnguyen92&layout=compact" style="height:150px"/>
 </a>
 <a href="https://github.com/vuthanhnguyen92">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vuthanhnguyen92&count_private=true" style="height:150px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vuthanhnguyen92&count_private=true&show_icons=true" style="height:150px"/>
 </a>
