@@ -7,7 +7,19 @@
 					display: flex;
                                         gap: 10px;
 				}
+				.image-size {
+				   height: 180px;
+				}
 			</style>
+			
+			<div class="container">
+				<a href="https://github.com/vuthanhnguyen92">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuthanhnguyen92&layout=compact" class="image-size" alt="Nick Vu's top programming languages"/>
+</a>
+<a href="https://github.com/vuthanhnguyen92">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vuthanhnguyen92&count_private=true&show_icons=true&include_all_commits=true" class="image-size" alt="Nick Vu's git stats"/>
+</a>
+			</div>
 		</div>
 	</foreignObject>
 </svg>
