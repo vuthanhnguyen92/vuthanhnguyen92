@@ -13,6 +13,6 @@ Git stats
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuthanhnguyen92&layout=compact" style="height:180px" alt="Nick Vu's top programming languages"/>
 </a>
 <a href="https://github.com/vuthanhnguyen92">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vuthanhnguyen92&count_private=true&show_icons=true&include_all_commits=true&card_width=414&custom_title=Github%20Stats&text_bold=true" style="height:180px" alt="Nick Vu's git stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vuthanhnguyen92&show_icons=true&include_all_commits=true&card_width=414&custom_title=Github%20Stats&text_bold=true&count_private=true" style="height:180px" alt="Nick Vu's git stats"/>
 </a>
 </div>
