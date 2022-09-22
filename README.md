@@ -1,4 +1,4 @@
-<p>Hi there! <img src="https://github.com/vuthanhnguyen92/vuthanhnguyen92/blob/main/dancing-gopher.gif?raw=true" width="20" height="20" /></p>
+<p>Hi there! <img src="dancing-gopher.gif" width="20" height="20" /></p>
 <h2>
 Stackoverflow
 </h2>
