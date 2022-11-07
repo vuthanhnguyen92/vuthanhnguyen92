@@ -3,8 +3,8 @@
 <h2>
 Stackoverflow
 </h2>
-<a href="https://stackoverflow.com/users/9201587/nick-vu?tab=profile">
-<img src="https://stackoverflow.com/users/flair/9201587.png?theme=clean" alt="Nick Vu's Stackoverflow profile"/>
+<a href="[https://github.com/johannchopin/stackoverflow-readme-profile](https://stackoverflow.com/users/9201587/nick-vu?tab=profile)">
+  <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile-small/9201587?theme=default" alt="user:9201587's SO profile">
 </a>
 <h2>
 Git stats
