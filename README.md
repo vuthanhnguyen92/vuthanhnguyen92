@@ -1,10 +1,14 @@
 <p>Hi there! <img src="dancing-gopher.gif" width="20" height="20" /></p>
 <img src="headline.png" alt="Headline"/>
 <h2>
+My favorite tech
+</h2>
+<img src="https://skillicons.dev/icons?i=go,react,docker,kubernetes,aws,gcp,githubactions,redis,nginx,mongodb,mysql&theme=light" alt="My favorite tech">
+<h2>
 Stackoverflow
 </h2>
 <a href="[https://github.com/johannchopin/stackoverflow-readme-profile](https://stackoverflow.com/users/9201587/nick-vu?tab=profile)">
-  <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile-small/9201587?theme=default" alt="user:9201587's SO profile">
+  <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile-small/9201587?theme=default" alt="Nick Vu's Stackoverflow profile">
 </a>
 <h2>
 Git stats
