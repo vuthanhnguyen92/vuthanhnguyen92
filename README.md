@@ -16,4 +16,8 @@ Git stats
 <a href="https://github.com/vuthanhnguyen92">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vuthanhnguyen92&show_icons=true&include_all_commits=true&card_width=414&custom_title=Github%20Stats&text_bold=true&count_private=true" style="height:180px" alt="Nick Vu's git stats"/>
 </a>
+  <h2>
+    Git streak
+  </h2>
+  <img src="https://streak-stats.demolab.com/?user=vuthanhnguyen92"/>
 </div>
