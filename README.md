@@ -1,5 +1,5 @@
 <p>Hi there! <img src="dancing-gopher.gif" width="20" height="20" /></p>
-<img src="headerline.png" alt="Header"/>
+<img src="headline.png" alt="Headline"/>
 <h2>
 Stackoverflow
 </h2>
