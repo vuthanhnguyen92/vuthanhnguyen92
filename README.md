@@ -1,4 +1,5 @@
 <p>Hi there! <img src="dancing-gopher.gif" width="20" height="20" /></p>
+<img src="https://komarev.com/ghpvc/?username=vuthanhnguyen92&style=for-the-badge" alt="Profile views">
 <img src="headline.png" alt="Headline"/>
 <h2>
 My favorite tech
